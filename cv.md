@@ -2,7 +2,7 @@ rsschool-cv
 # Maryia __Zhuk__
 
 ![Maria's avatar] (/D:/rolling scopes/rsschool-cv/cvimage.jpg)
-### Frontend-DEVELOPER
+__Frontend-DEVELOPER__
 
 * __Phone:__ +995 591 045 264
 * __Telegram:__ @marusya_zhuk
@@ -37,7 +37,7 @@ const func = (num) => {
 
 
 ## WORK EXPERIENCE
-#### Bank branch Administrator
+### Bank branch Administrator
 __BSB Bank__
 
 January 2021 - May 2021
@@ -45,7 +45,7 @@ January 2021 - May 2021
 * Opening and closing of the branch
 * Work with the bank's database
 
-#### Paintball and laser tag Instructor
+### Paintball and laser tag Instructor
 __COLT.BY__
 
 May 2019 - December 2021
@@ -55,13 +55,14 @@ May 2019 - December 2021
 * Ensuring customer safety
 
 ## EDUCATION
-#### University
+### University
 __Minsk State Linguistic University__
+
 Interpreter, specialist of intercultural
 communications
 September 2018 - Present
 
-#### Courses
+### Courses
 * Mobile animation 
 August 2021 - August 2021
 * SMM

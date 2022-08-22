@@ -39,6 +39,7 @@ const func = (num) => {
 ## WORK EXPERIENCE
 #### Bank branch Administrator
 __BSB Bank__
+
 January 2021 - May 2021
 * Consultation of bank clients
 * Opening and closing of the branch
@@ -46,6 +47,7 @@ January 2021 - May 2021
 
 #### Paintball and laser tag Instructor
 __COLT.BY__
+
 May 2019 - December 2021
 * Conduction of a paintball game
 * Conduction of a laser tag game
